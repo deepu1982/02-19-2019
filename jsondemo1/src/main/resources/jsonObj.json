@@ -1,0 +1,37 @@
+{
+  "key1" : "value1",
+  "array" : [ "a", "b", "c" ],
+  "boolean" : "true",
+  "StudentArray" : [ {
+    "id" : 1001,
+    "name" : "Deepu",
+    "lastName" : "Vikraman"
+  }, {
+    "id" : 1002,
+    "name" : "Anil",
+    "lastName" : "Beeram"
+  } ],
+  "student" : {
+    "id" : 1001,
+    "name" : "Deepu",
+    "lastName" : "Vikraman"
+  },
+  "Integer" : 1,
+  "Null" : null,
+  "Date" : {
+    "dayOfMonth" : 13,
+    "dayOfWeek" : "WEDNESDAY",
+    "dayOfYear" : 44,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "year" : 2019,
+    "hour" : 13,
+    "minute" : 9,
+    "nano" : 317000000,
+    "second" : 26,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    }
+  }
+}
