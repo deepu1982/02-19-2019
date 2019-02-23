@@ -15,6 +15,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import jsondomain.Student;
 
 public class DataBindingRead {
+	
+	kjhkj
 
 	public static void main(String[] args) {
 		ObjectMapper objMapper = new ObjectMapper();
